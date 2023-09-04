@@ -6,11 +6,10 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 
 @EnableJpaAuditing
 @SpringBootApplication
-public class Section3Week3TemplateTxApplication {
+public class QuestionAnswerBoard {
 
 	public static void main(String[] args) {
-		System.out.println("Hello World");
-		SpringApplication.run(Section3Week3TemplateTxApplication.class, args);
+		SpringApplication.run(QuestionAnswerBoard.class, args);
 	}
 
 }

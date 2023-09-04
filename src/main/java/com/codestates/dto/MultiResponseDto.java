@@ -1,5 +1,6 @@
 package com.codestates.dto;
 
+import com.codestates.question.dto.QuestionResponseDto;
 import lombok.Getter;
 import org.springframework.data.domain.Page;
 
